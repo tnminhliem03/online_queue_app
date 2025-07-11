@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|d:\\project\\android\\online_queue\\server_online_queue\\onlinequeueapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|solutionrelative:onlinequeueapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|d:\\project\\android\\online_queue\\server_online_queue\\onlinequeueapi\\bl\\appointmentbl\\appointmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|solutionrelative:onlinequeueapi\\bl\\appointmentbl\\appointmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|d:\\project\\android\\online_queue\\server_online_queue\\onlinequeueapi\\dl\\queuedl\\queuedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|solutionrelative:onlinequeueapi\\dl\\queuedl\\queuedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|d:\\project\\android\\online_queue\\server_online_queue\\onlinequeueapi\\dl\\queuedl\\iqueuedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|solutionrelative:onlinequeueapi\\dl\\queuedl\\iqueuedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|d:\\project\\android\\online_queue\\server_online_queue\\onlinequeueapi\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|solutionrelative:onlinequeueapi\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|d:\\project\\android\\online_queue\\server_online_queue\\onlinequeueapi\\controllers\\basescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|solutionrelative:onlinequeueapi\\controllers\\basescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|d:\\project\\android\\online_queue\\server_online_queue\\onlinequeueapi\\permission\\apipermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FFF920-F664-425C-BE62-96CA0EF5C923}|OnlineQueueAPI\\OnlineQueueAPI.csproj|solutionrelative:onlinequeueapi\\permission\\apipermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueDL.cs",
+              "DocumentMoniker": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\DL\\QueueDL\\QueueDL.cs",
+              "RelativeDocumentMoniker": "OnlineQueueAPI\\DL\\QueueDL\\QueueDL.cs",
+              "ToolTip": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\DL\\QueueDL\\QueueDL.cs",
+              "RelativeToolTip": "OnlineQueueAPI\\DL\\QueueDL\\QueueDL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:57:25.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQueueDL.cs",
+              "DocumentMoniker": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\DL\\QueueDL\\IQueueDL.cs",
+              "RelativeDocumentMoniker": "OnlineQueueAPI\\DL\\QueueDL\\IQueueDL.cs",
+              "ToolTip": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\DL\\QueueDL\\IQueueDL.cs",
+              "RelativeToolTip": "OnlineQueueAPI\\DL\\QueueDL\\IQueueDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:56:56.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "OnlineQueueAPI\\Models\\Service.cs",
+              "ToolTip": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\Models\\Service.cs",
+              "RelativeToolTip": "OnlineQueueAPI\\Models\\Service.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:51:40.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentBL.cs",
+              "DocumentMoniker": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\BL\\AppointmentBL\\AppointmentBL.cs",
+              "RelativeDocumentMoniker": "OnlineQueueAPI\\BL\\AppointmentBL\\AppointmentBL.cs",
+              "ToolTip": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\BL\\AppointmentBL\\AppointmentBL.cs",
+              "RelativeToolTip": "OnlineQueueAPI\\BL\\AppointmentBL\\AppointmentBL.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:39:43.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasesController.cs",
+              "DocumentMoniker": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\Controllers\\BasesController.cs",
+              "RelativeDocumentMoniker": "OnlineQueueAPI\\Controllers\\BasesController.cs",
+              "ToolTip": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\Controllers\\BasesController.cs",
+              "RelativeToolTip": "OnlineQueueAPI\\Controllers\\BasesController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAswM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:54:12.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiPermissions.cs",
+              "DocumentMoniker": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\Permission\\ApiPermissions.cs",
+              "RelativeDocumentMoniker": "OnlineQueueAPI\\Permission\\ApiPermissions.cs",
+              "ToolTip": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\Permission\\ApiPermissions.cs",
+              "RelativeToolTip": "OnlineQueueAPI\\Permission\\ApiPermissions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:49:27.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "OnlineQueueAPI\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\Project\\Android\\Online_Queue\\server_online_queue\\OnlineQueueAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "OnlineQueueAPI\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAADwvwoBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:38:46.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

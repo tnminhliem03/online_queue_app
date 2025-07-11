@@ -1,0 +1,6 @@
+@OnlineQueueAPI_HostAddress = http://localhost:5253
+
+GET {{OnlineQueueAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
